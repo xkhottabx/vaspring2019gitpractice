@@ -5,7 +5,6 @@ public class LoginTest {
         System.out.println("Line 1");
         System.out.println("Line 2");
         System.out.println("Line 3");
-        System.out.println("Line 4");
       
 
     }
